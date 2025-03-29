@@ -1,0 +1,8 @@
+version: 1.0
+runtime: docker
+build:
+  commands: []
+run:
+  command: []
+  network:
+    port: 80
